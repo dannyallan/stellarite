@@ -1,0 +1,469 @@
+IDS_About,About
+IDS_AccessDeny,Deny Access
+IDS_AccessPrivate,Private
+IDS_AccessRead,Read Only
+IDS_Account,Account
+IDS_AccountId,Account ID
+IDS_AccountNew,New Account
+IDS_Accounts,Accounts
+IDS_AccountSearch,Search Accounts
+IDS_AccountSize,Company Size
+IDS_AccountType,Account Type
+IDS_Add,Add
+IDS_AddAll,Add All
+IDS_AddCustomField,Add Custom Data Field
+IDS_AddNewFile,Add Another File
+IDS_Address,Address
+IDS_Address1,Address
+IDS_Address2,Address
+IDS_Address3,Address
+IDS_Administration,Administration
+IDS_Administrator,Administrator
+IDS_AllDetails,All Details
+IDS_ApplicationReload,Reload Application
+IDS_ApplicationVariables,Application Variables
+IDS_Article,Article
+IDS_ArticleId,Article ID
+IDS_ArticleNew,New Article
+IDS_Articles,Articles
+IDS_ArticleSearch,Search Knowledge Base
+IDS_ArticlesNew,New Articles
+IDS_ArticlesPopular,Popular Articles
+IDS_AttachmentInfo,Attachment Info
+IDS_Attachments,Attachments
+IDS_AttachmentType,Document Type
+IDS_Author,Author
+IDS_Author,Author
+IDS_Available,Available
+IDS_BackOne,Go Back One
+IDS_BackTwo,Go Back Two
+IDS_Billable,Billable
+IDS_Bug,Bug
+IDS_BugCause,Bug Cause
+IDS_BugId,Bug ID
+IDS_BugNew,New Bug
+IDS_Bugs,Bugs
+IDS_BugSearch,Search Bugs
+IDS_BugsOpen,Open Bugs
+IDS_BugSource,Bug Source
+IDS_BugType,Bug Type
+IDS_Build,Build
+IDS_Calendar,Calendar
+IDS_Cancel,Cancel
+IDS_Category,Category
+IDS_CategoryNew,New Category
+IDS_CategoryParent,Parent Category
+IDS_Cause,Cause
+IDS_ChangeView,Change View
+IDS_CharLimit255,Limit (255 chars)
+IDS_City,City
+IDS_Closed,Closed
+IDS_CloseDate,Close Date
+IDS_ClosedBy,Closed By
+IDS_CloseWindow,Close Window
+IDS_Complete,Complete
+IDS_Contact,Contact
+IDS_ContactNew,New Contact
+IDS_ContactPrefix,Prefix
+IDS_Contacts,Contacts
+IDS_ContactSearch,Search Contacts
+IDS_Cookies,Cookies
+IDS_Country,Country
+IDS_Created,Created
+IDS_CreatedBy,Created By
+IDS_CreateLink,Create Link
+IDS_CRMAdministration,CRM Administration
+IDS_CRMAdministrator,CRM Administrator
+IDS_CRMEmail,CRM Email
+IDS_CRMParameters,CRM Parameters
+IDS_CRMStylesheet,CRM Stylesheet
+IDS_CRMURL,CRM URL
+IDS_CSS_AltBGColor,Alternate BG Color
+IDS_CSS_DefaultColor,Default Color
+IDS_CSS_DefaultFont,Default Font
+IDS_CSS_DefaultSize,Default Size
+IDS_CSS_DefaultWeight,Default Weight
+IDS_CSS_DisabledFormColor,Disabled Form Color
+IDS_CSS_EnabledFormColor,Enabled Form Color
+IDS_CSS_HeaderColor,Header Color
+IDS_CSS_HeaderFont,Header Font
+IDS_CSS_HeaderSize,Header Size
+IDS_CSS_HeaderWeight,Header Weight
+IDS_CSS_HighlightBGColor,Highlight BG Color
+IDS_CSS_HoverLinkStyle,Hover Link Style
+IDS_CSS_LabelColor,Label Color
+IDS_CSS_LabelFont,Label Font
+IDS_CSS_LabelSize,Label Size
+IDS_CSS_LabelWeight,Label Weight
+IDS_CSS_LinkStyle,Link Style
+IDS_CSS_MajorColor,Major Color
+IDS_CSS_MandatoryFormColor,Mandatory Form Color
+IDS_CSS_MinorColor,Minor Color
+IDS_CSS_PrintFont,Print Font
+IDS_CSS_PrintSize,Print Size
+IDS_CSS_TitleColor,Title Color
+IDS_CSS_TitleFont,Title Font
+IDS_CSS_TitleSize,Title Size
+IDS_CSS_TitleWeight,Title Weight
+IDS_CSS_VisitedLinkStyle,Visited Link Style
+IDS_Currency,Currency
+IDS_CustomSQL,Custom SQL Query
+IDS_DatabaseInfo,Database Information
+IDS_Date,Date
+IDS_Days,Days
+IDS_DaysOwed,Days Owed
+IDS_DaysTotal,Days Total
+IDS_Delete,Delete
+IDS_Deleted,Deleted
+IDS_Department,Department
+IDS_Description,Description
+IDS_DisplayBillable,Show non-billable
+IDS_DisplayEventTitles,Show event titles
+IDS_DisplayMine,Show only my events
+IDS_DisplayOffsite,Show offsite
+IDS_DisplayOwners,Show owners
+IDS_DisplayParent,Show parent
+IDS_Division,Division
+IDS_DoNotCall,Do Not Call
+IDS_Done,Done
+IDS_DropDown,DropDown Menu
+IDS_Duration,Duration
+IDS_Edit,Edit
+IDS_EditCustomFields,Edit Custom Data Fields
+IDS_EditDefaultPermissions,Edit Default Permissions
+IDS_EditHomePage,Edit Home Page
+IDS_EditMessage,Edit Message
+IDS_EditNoticeClient,Edit Accounts Notice
+IDS_EditNoticeContact,Edit Contacts Notice
+IDS_EditNoticeCRM,Edit CRM Notice
+IDS_EditNoticeFinance,Edit Finance Notice
+IDS_EditNoticeQA,Edit Quality Assurance Notice
+IDS_EditNoticeSales,Edit Opportunities Notice
+IDS_EditNoticeServices,Edit Services Notice
+IDS_EditNoticeSupport,Edit Support Notice
+IDS_EditOptionValues,Edit Option Values
+IDS_EditProducts,Edit Products
+IDS_Email,Email
+IDS_EmailFrom,From Account
+IDS_EmailHost,Mail Host
+IDS_EmailNotification,Email Notification
+IDS_EmailOptions,Email Options
+IDS_EmailOptOut,Email Opt Out
+IDS_EmailPort,Port
+IDS_EmailSubscriptions,Email Subscriptions
+IDS_EmailType,Email Type
+IDS_Enabled,Enabled
+IDS_EnableModules,Enable CRM Modules
+IDS_End,End
+IDS_EndTime,End Time
+IDS_ErrorBadRecord,Invalid Record Attempt
+IDS_ErrorBadRequest,Invalid Request
+IDS_ErrorLog,Error Log
+IDS_ErrorLogLevel,Error Logging
+IDS_ErrorLogLevel0,Normal
+IDS_ErrorLogLevel1,Detailed
+IDS_ErrorOptions,Error Logging Options
+IDS_ErrorPermissions,Permissions Error
+IDS_ErrorUnspecified,Unspecified Error
+IDS_Event,Event
+IDS_EventNew,New Event
+IDS_Events,Events
+IDS_EventSearch,Search Events
+IDS_EventType,Event Type
+IDS_Expiry,Expiry
+IDS_Export,Export
+IDS_Ext1,Ext.
+IDS_Ext2,Ext.
+IDS_False,FALSE
+IDS_FAQs,FAQs
+IDS_Fax,Fax
+IDS_FieldsAvailable,Available Fields
+IDS_FieldsShow,Show Fields
+IDS_File,File
+IDS_FileContent,Content Type
+IDS_FileName,File Name
+IDS_FileSize,File Size
+IDS_FindValue,Find Value
+IDS_Go,Go
+IDS_Group,Group
+IDS_Help,Help
+IDS_Home,Home
+IDS_HotBugs,Hot Bugs
+IDS_HotIssue,Hot Issue
+IDS_HotTickets,Hot Tickets
+IDS_Import,Import
+IDS_IndustrySector,Industry Sector
+IDS_InsufficientPermissions,Insufficient Permissions
+IDS_InternalView,Internal Viewing
+IDS_Invoice,Invoice
+IDS_InvoiceDate,Invoice Date
+IDS_InvoiceDetails,Payment Details
+IDS_InvoiceDue,Invoice Due
+IDS_InvoiceId,Invoice ID
+IDS_InvoiceNew,New Invoice
+IDS_InvoicePaid,Invoice Paid
+IDS_InvoicePhase,Invoice Phase
+IDS_InvoiceReceived,Received
+IDS_Invoices,Invoices
+IDS_InvoiceSearch,Search Invoices
+IDS_InvoiceSent,Sent
+IDS_InvoiceType,Invoice Type
+IDS_InvoicesOpen,Open Invoices
+IDS_InvoicesOverdue,Overdue Invoices
+IDS_JobTitle,Job Title
+IDS_JournalEntry,Journal Entry
+IDS_KBHits,Total Hits:
+IDS_KBRateArticle,Rate this Article
+IDS_KBRating,Rating:
+IDS_KBReviews,Reviews:
+IDS_Keywords,Keywords
+IDS_KnowledgeBase,Knowledge Base
+IDS_LastAccess,Last Access
+IDS_LastIP,Last IP
+IDS_Link,Link
+IDS_LockAccount,Lock Account
+IDS_LogBackIn,Log Back In
+IDS_Login,Login
+IDS_LoginAttempts,Login Attempts
+IDS_Logout,Logout
+IDS_Maintenance,CRM Maintenance
+IDS_Mandatory,Mandatory
+IDS_Max,Max.
+IDS_MaximumRecords,Maximum Records
+IDS_Member,Member
+IDS_MembersOnly,Members Only
+IDS_Min,Min.
+IDS_ModAll,All Modules
+IDS_Modified,Modified
+IDS_ModifiedBy,Modified By
+IDS_ModItem1,Contact
+IDS_ModItem2,Account
+IDS_ModItem3,Opportunity
+IDS_ModItem4,Project
+IDS_ModItem5,Ticket
+IDS_ModItem6,Bug
+IDS_ModItem7,Invoice
+IDS_ModItem8,Article
+IDS_ModName123,Sales &amp; Marketing
+IDS_ModName1,Contacts
+IDS_ModName2,Accounts
+IDS_ModName3,Opportunities
+IDS_ModName4,Services
+IDS_ModName5,Support
+IDS_ModName6,Quality Assurance
+IDS_ModName7,Finance
+IDS_ModName8,Knowledge Base
+IDS_Module,Module
+IDS_ModuleAdministration,Module Administration
+IDS_Modules,Modules
+IDS_MoveBottom,Bottom
+IDS_MoveDown,Down
+IDS_MoveTop,Top
+IDS_MoveUp,Up
+IDS_MsgEmailNo,You have not subscribed for email notification on this record. Would you like to receive email notification on each update?
+IDS_MsgEmailYes,You have already subscribed for email notification on this record. Would you like to continue receiving email notification on each update?
+IDS_MsgEnterSearch,Please enter your search parameters.
+IDS_MsgErrorLogs,If you would like to enable error logging, please enter the local path to the error log below (write permissions required).  If you leave this empty, no error log is created.<br /><br />If you have enabled CRM email, you may also have this information emailed to your Stellarite administrators by entering one or more email addresses, separated by commas.<br /><br />
+IDS_MsgFileSize,This utility can do one of two functions: it will either upload your file into a unique network location <img src="../images/upload2.gif" alt="" height=16 width=16 align=absmiddle />, or you may specify a network location <img src="../images/link2.gif" alt="" height=16 width=16 align=absmiddle> where you would like to create a link to.  There has been a [SIZE] MB file size- limit imposed upon all network uploads to allow for optimal CRM experience for all other users.
+IDS_MsgHideUsers,Hide User Profiles for non-Administrators
+IDS_MsgIncorrectLogin,Error.  Your username or password was incorrect.
+IDS_MsgIncorrectPassword,Your password was incorrect.  Please try again.
+IDS_MsgLockedOutAdmin,Your account has been locked out.  You may only access the application locally.
+IDS_MsgLockedOutUser,Your account has been locked out.  Please contact the CRM System Administrator.
+IDS_MsgMaintDisabled,The CRM is currently in read-only mode.\nYou are not permitted to change form values.
+IDS_MsgMaintDown,The CRM is currently down for maintenance.  Please check back later.
+IDS_MsgMaxRecords,The CRM Administrator has limited the results to [MAX] records.
+IDS_MsgMembersOnly,This record is available to\nmembers only.
+IDS_MsgNoParent,Sorry.  This page can only be\nopened as a pop-up.
+IDS_MsgNoResults,No Results Found.  Please re-enter your search criteria.
+IDS_MsgNotification,You have requested an email notification when the [SUBJECT] has been updated.  This record has been updated by [MODBY].  Please visit [URL] for more details. Thanks.
+IDS_MsgOptionValues,Please select an option value from the above drop down list.
+IDS_MsgPasswordChars,The password contains illegal characters.
+IDS_MsgPasswordLength,The password must be at least 6 characters.
+IDS_MsgPasswordMatch,The specified passwords do not match.
+IDS_MsgPasswordSame,You must choose a new password.
+IDS_MsgPasswordSecure,The password must contain at least one uppercase letter,\n one lowercase letter, and one numeral.
+IDS_MsgPopup,Launch CRM in new window
+IDS_MsgSpecifyCause,You must specify a cause before closing.
+IDS_MsgTaxChange,Allow finance members to alter tax rate for invoices
+IDS_MsgUpgradeLocal,This Stellarite CRM installation must be upgraded locally at the server.
+IDS_MsgUpgradeNeeded,Your database is currently version [X] and needs to be updated to version [Y].  Please ensure that you have made a backup of your database before continuing.
+IDS_MsgUpgradeUnknown,This version of the Stellarite CRM is no longer supported and can not be upgraded.
+IDS_MsgUploadComponent,The selected upload component is not installed.
+IDS_MsgUploadSize,The maximum licensed upload size of PureASP is 10MB.
+IDS_MsgWaitForEnd,Please wait for completion message before closing this window.
+IDS_My,My
+IDS_MyProfile,My Profile
+IDS_Name,Name
+IDS_NameFirst,First Name
+IDS_NameFull,Full Name
+IDS_NameLast,Last Name
+IDS_NameMI,Middle
+IDS_NavButtons,Buttons
+IDS_NavIcons,Icons
+IDS_Navigation,Navigation
+IDS_New,New
+IDS_NewsUpdates,News &amp; Updates
+IDS_Next,Next
+IDS_No,No
+IDS_NoneSpecified,None Specified
+IDS_Notes,Notes
+IDS_NoteType,Contact Type
+IDS_Number,Number
+IDS_Onsite,Onsite
+IDS_Open,Open
+IDS_Opened,Opened
+IDS_Order,Order
+IDS_OrderBy,Order By
+IDS_Owner,Owner
+IDS_Parent,Parent
+IDS_Password,Password
+IDS_PasswordChange,User must change password
+IDS_PasswordConfirm,Confirm Password
+IDS_PasswordEdit,Edit Password
+IDS_PasswordNew,New Password
+IDS_PasswordOld,Old Password
+IDS_Permissions,Permissions
+IDS_Phase,Phase
+IDS_Phone,Phone
+IDS_Phone1,Phone 1
+IDS_Phone2,Phone 2
+IDS_PIN,PIN
+IDS_Pipeline,Pipeline
+IDS_Previous,Previous
+IDS_Print,Print
+IDS_Priority,Priority
+IDS_ProblemFlag,Problem Flag
+IDS_Product,Product
+IDS_ProductNew,Please enter the new product name.
+IDS_Products,Products
+IDS_Project,Project
+IDS_ProjectNew,New Project
+IDS_ProjectOpen,Open Projects
+IDS_Projects,Projects
+IDS_ProjectSearch,Search Projects
+IDS_Public,Public
+IDS_PurchaseOrder,Purchase Order
+IDS_RecentlyUpdated,Updated
+IDS_RecentlyUpdatedClients,Updated Accounts
+IDS_RecentlyUpdatedContacts,Updated Contacts
+IDS_RecentlyUpdatedSales,Updated Opportunities
+IDS_Records,Records
+IDS_Reference,Reference
+IDS_Remove,Remove
+IDS_RemoveAll,Remove All
+IDS_ReportColumns,Report Columns
+IDS_ReportCondition,Condition
+IDS_ReportCondition1,Is Equal To
+IDS_ReportCondition2,Does Not Equal
+IDS_ReportCondition3,Begins With
+IDS_ReportCondition4,Contains
+IDS_ReportCondition5,Does not Contain
+IDS_ReportCondition6,Equal or Greater Than
+IDS_ReportCondition7,Equal or Less Than
+IDS_ReportCondition8,Date Before or On
+IDS_ReportCondition9,Date On or After
+IDS_ReportCondition10,Is True
+IDS_ReportCondition11,Is False
+IDS_ReportCondition12,In Selected Options
+IDS_ReportConditions,Report Conditions
+IDS_ReportField,Field
+IDS_ReportName,Report Name
+IDS_ReportNew,New Report
+IDS_ReportNewBug,Create Bug Report
+IDS_ReportNewClient,Create Account Report
+IDS_ReportNewContact,Create Contact Report
+IDS_ReportNewCustom,Create Custom Report
+IDS_ReportNewEvent,Create Events Report
+IDS_ReportNewInvoice,Create Invoices Report
+IDS_ReportNewProject,Create Projects Report
+IDS_ReportNewSales,Create Opportunities Report
+IDS_ReportNewTicket,Create Tickets Report
+IDS_Reports,Reports
+IDS_ReportsPublic,Public Reports
+IDS_Requirements,Requirements
+IDS_Sale,Opportunity
+IDS_SaleNew,New Opportunity
+IDS_Sales,Opportunities
+IDS_SalesCount,Opportunity Count
+IDS_SalesPhase,Sale Phase
+IDS_SaleSearch,Search Opportunities
+IDS_SalesRegion,Sales Region
+IDS_SalesRep,Sales Rep
+IDS_SaleValue,Value
+IDS_Save,Save
+IDS_Search,Search
+IDS_SearchFor,Search For ...
+IDS_SearchFullText,Full Text
+IDS_SearchGroup,Category (optional)
+IDS_SearchID,Article ID
+IDS_SearchTitles,Titles
+IDS_SearchUsing,Using ...
+IDS_SearchWhere,Search Type
+IDS_Serial,Serial
+IDS_Serials,Serials
+IDS_ServerInformation,Server Information
+IDS_ServerVariables,Stellarite Variables
+IDS_SessionVariables,Session Variables
+IDS_ShowSupportTicker,Show Support Ticker
+IDS_Size,Size
+IDS_SkipNav,Skip main navigation menu
+IDS_Solution,Solution
+IDS_Start,Start
+IDS_StartDate,Start Date
+IDS_StartTime,Start Time
+IDS_State,State
+IDS_Status,Status
+IDS_Success,Success
+IDS_Summary,Summary
+IDS_SupportType,Support Type
+IDS_Tax,Tax
+IDS_TaxRate,Tax Rate
+IDS_TermsAll,All of the words entered
+IDS_TermsAny,Any of the words entered
+IDS_TermsExact,The exact phrase entered
+IDS_Text,Text
+IDS_ThankYou,Thank You
+IDS_Ticket,Ticket
+IDS_TicketCause,Ticket Cause
+IDS_TicketId,Ticket ID
+IDS_TicketNew,New Ticket
+IDS_Tickets,Tickets
+IDS_TicketSearch,Search Tickets
+IDS_TicketsOpen,Open Tickets
+IDS_TicketSource,Ticket Source
+IDS_TicketSupport,Support Type
+IDS_TicketType,Ticket Type
+IDS_TimeZone,TimeZone
+IDS_Title,Title
+IDS_Total,Total
+IDS_True,TRUE
+IDS_Type,Type
+IDS_Unspecified,Unspecified
+IDS_Untitled,Untitled
+IDS_UpcomingClientEvents,Upcoming Account Events
+IDS_UpcomingEvents,Upcoming Events
+IDS_UpdateCounts,Update CRM Counts
+IDS_Updated,Updated
+IDS_Updating,Updating
+IDS_Upgrade,Upgrade
+IDS_Upload,Upload
+IDS_UploadEnabled,Upload Enabled
+IDS_UploadInfo,Upload Information
+IDS_UploadLimit,Upload Limit (bytes)
+IDS_UploadLog,Upload Log
+IDS_UploadOptions,Upload Options
+IDS_UploadPath,Upload Path
+IDS_UploadURL,Upload URL
+IDS_UsefulLinks,Useful Links
+IDS_User,User
+IDS_UserExists,The specified UserName already exists.
+IDS_Username,UserName
+IDS_UserProfile,User Profile
+IDS_UserProfiles,User Profiles
+IDS_Value,Value
+IDS_VariableName,Variable Name
+IDS_ViewReport,View Report
+IDS_Website,Website
+IDS_Yes,Yes
+IDS_ZIP,ZIP
