@@ -1,0 +1,229 @@
+a:link		{text-decoration: none;}
+a:visited	{text-decoration: none;}
+a:hover		{text-decoration: underline;}
+
+.dfont,.wfont,.dText,.dNum,.eTab,.dTab,.button,.calendar,
+.oText,.oEmail,.oPhone,.oRGB,.oDate,.oMemo,.oLink,.oNum,.oBool,.oByte,.oInt,.oLong,.oCurrency,
+.mText,.mEmail,.mPhone,.mRGB,.mDate,.mMemo,.mLink,.mNum,.mBool,.mByte,.mInt,.mLong,.mCurrency
+			{font-family: Verdana, Arial, Helvetica;
+			font-size: 8pt;}
+
+.print		{font-family: Verdana, Arial, Helvetica;
+			font-size: 8pt;}
+
+.dlabel		{font-family: Verdana, Arial, Helvetica;
+			font-size: 8pt;
+			font-weight: bold;
+			color: #333333;
+			padding-right: 10;}
+
+.dfont		{color: #000000;}
+
+.wfont		{font-weight: bold;
+			color: red;}
+
+.hfont		{font-family: Verdana, Arial, Helvetica;
+			font-size: 10pt;
+			font-weight: bold;
+			color: #000000;
+			text-align: left;}
+
+.tfont		{font-family: Verdana, Arial, Helvetica;
+			font-size: 12pt;
+			font-weight: bold;
+			color: #000000;
+			padding-left: 5;
+			padding-right: 5;}
+
+.oText,.oEmail,.oPhone,.oRGB,.oDate,.oMemo,.oLink,.oNum,.oBool,.oByte,.oInt,.oLong,.oCurrency
+			{padding-left: 3;
+			background-color: #FFFFFF;
+			color: #000000;}
+
+.mText,.mEmail,.mPhone,.mRGB,.mDate,.mMemo,.mLink,.mNum,.mBool,.mByte,.mInt,.mLong,.mCurrency
+			{padding-left: 3;
+			background-color: #FFF0F0;
+			color: #000000;}
+
+.dText,.dNum,.dCurrency
+			{padding-left: 3;
+			background-color: #F5F5F5;
+			color: #000000;}
+
+.hrow		{background-color: #FAEBBE;}
+.drow1		{background-color: #FFFFFF;}
+.drow2		{background-color: #F5F5F5;}
+.drow3		{background-color: #FFF0F0;}
+
+.etab		{background-color: #990000;
+			color: white;
+			cursor: default;}
+
+.dtab		{background-color: #FAEBBE;
+			color: black;
+			cursor: pointer;}
+
+.button		{margin-top: 5px;}
+
+div.dvHeader{overflow: auto;
+			padding: 0px;
+			width: 100%;}
+
+div.dvMod	{-moz-box-sizing: border-box;
+			box-sizing: border-box;
+			overflow: auto;
+			padding-left: 10px;
+			padding-right: 10px;
+			padding-top: 10px;
+			width: 100%;}
+
+div.dvBorder	{-moz-box-sizing: border-box;
+			box-sizing: border-box;
+			overflow: auto;
+			padding: 10px;
+			width: 100%;}
+
+div.dvNoBorder	{-moz-box-sizing: border-box;
+			box-sizing: border-box;
+			overflow: auto;
+			padding: 0px;
+			width: 100%;}
+
+iframe.iBorder	{-moz-box-sizing: border-box;
+			border: 2px solid #990000;
+			box-sizing: border-box;
+			margin-left: 10px;
+			margin-right: 10px;
+			width:100%;}
+
+div.dvFooter	{-moz-box-sizing: border-box;
+			background-color: #FAEBBE;
+			box-sizing: border-box;
+			overflow: auto;
+			padding: 5px;
+			text-align: right;
+			width: 100%;}
+
+
+div.menuBar, div.menuBar a.menuButton, div.menu, div.menu a.menuItem {
+			font-family: "MS Sans Serif", Arial, sans-serif;
+			font-size: 8pt;
+			font-style: normal;
+			font-weight: normal;
+			color: #FFFFFF;
+}
+
+div.menuBar {
+			background-color: #990000;
+			border-style: solid;
+			border-width: 0px;
+			border-top-color: #CC3333;
+			border-top-width: 1px;
+			border-bottom-color: #660000;
+			border-bottom-width: 1px;
+			padding: 3px 2px 4px 2px;
+			text-align: left;
+}
+
+div.menuBar a.menuButton {
+			background-color: transparent;
+			border: 1px solid #990000;
+			color: #FFFFFF;
+			cursor: default;
+			left: 0px;
+			margin: 1px;
+			padding: 2px 6px 2px 6px;
+			position: relative;
+			text-decoration: none;
+			top: 0px;
+			z-index: 100;
+}
+
+div.menuBar a.menuButton:hover {
+			background-color: transparent;
+			border-color: 1px outset #990000;
+}
+
+div.menuBar a.menuButtonActive, div.menuBar a.menuButtonActive:hover {
+			background-color: #660000;
+			border-color: 1px inset #990000;
+			left: 1px;
+			top: 1px;
+}
+
+div.menu {
+			background-color: #C0C0C0;
+			border: 2px solid;
+			border-color: #F0F0F0 #909090 #909090 #F0F0F0;
+			left: 0px;
+			padding: 0px 1px 1px 0px;
+			position: absolute;
+			top: 0px;
+			visibility: hidden;
+			z-index: 101;
+}
+
+div.menu a.menuItem {
+			color: #000000;
+			cursor: default;
+			display: block;
+			padding: 3px 1em;
+			text-decoration: none;
+			white-space: nowrap;
+}
+
+div.menu a.menuItem:hover, div.menu a.menuItemHighlight {
+			background-color: #660000;
+			color: #FFFFFF;
+}
+
+div.menu a.menuItem span.menuItemText {}
+
+div.menu a.menuItem span.menuItemArrow {
+			margin-right: -.75em;
+}
+
+div.menu div.menuItemSep {
+			border-top: 1px solid #909090;
+			border-bottom: 1px solid #F0F0F0;
+			margin: 4px 2px;
+}
+
+.userName 	{color: #FFFFFF;
+			font-family: "MS Sans Serif", Arial, Tahoma,sans-serif;
+			font-size: 8pt;
+			font-style: normal;
+			font-weight: normal;
+			padding: 4px;
+			padding-right: 10px;
+			text-align: right;
+}
+
+.breadcrumb {-moz-box-sizing: border-box;
+			background-color: #CC3333;
+			box-sizing: border-box;
+			padding: 3px;
+			padding-left: 10px;
+			padding-bottom: 5px;
+			position: relative;
+			left: 0px;
+			top: 0px;
+			width: 100%;
+}
+
+.breadcrumbtext {
+			color: #FFFFFF;
+			font-family: Verdana, Arial, Tahoma,sans-serif;
+			font-size: 7pt;
+}
+
+.calendar {background-color: #990000;
+			padding: 1px;
+			color: #FFFFFF;}
+
+.C0	{font-family: Verdana, Arial, Helvetica;font-size: 8pt;color: black;background-color: #FFFFFF;}
+.C1	{font-family: Verdana, Arial, Helvetica;font-size: 8pt;color: black;background-color: #F2F2F2;}
+.C2	{font-family: Verdana, Arial, Helvetica;font-size: 8pt;color: black;background-color: #DEDEDE;}
+.C3	{font-family: Verdana, Arial, Helvetica;font-size: 8pt;color: black;background-color: #808080;}
+.C4	{font-family: Verdana, Arial, Helvetica;font-size: 8pt;color: white;background-color: #333333;}
+.C5	{font-family: Verdana, Arial, Helvetica;font-size: 8pt;color: white;}
